@@ -1,0 +1,13 @@
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.AssemblyInfoInputs.cache
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.AssemblyInfo.cs
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.csproj.CoreCompileInputs.cache
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.sourcelink.json
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\bin\Debug\net10.0\Arreglos.Logica.deps.json
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\bin\Debug\net10.0\Arreglos.Logica.dll
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\bin\Debug\net10.0\Arreglos.Logica.pdb
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.dll
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\refint\Arreglos.Logica.dll
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.Logica.pdb
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\ref\Arreglos.Logica.dll
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.Logica\obj\Debug\net10.0\Arreglos.AEEE99A5.Up2Date

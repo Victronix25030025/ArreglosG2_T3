@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31412067-C96B-FFDE-E1FF-7E026BCC1B41}|Arreglos.Logica\\Arreglos.Logica.csproj|c:\\proyectos\\edat\\arreglosg2_t3\\arreglos.logica\\miarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31412067-C96B-FFDE-E1FF-7E026BCC1B41}|Arreglos.Logica\\Arreglos.Logica.csproj|solutionrelative:arreglos.logica\\miarreglo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCFF4EF-835F-DC7B-0332-AFFDE3807132}|Arreglos.UI.Consola\\Arreglos.UI.Consola.csproj|c:\\proyectos\\edat\\arreglosg2_t3\\arreglos.ui.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCFF4EF-835F-DC7B-0332-AFFDE3807132}|Arreglos.UI.Consola\\Arreglos.UI.Consola.csproj|solutionrelative:arreglos.ui.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31412067-C96B-FFDE-E1FF-7E026BCC1B41}|Arreglos.Logica\\Arreglos.Logica.csproj|c:\\proyectos\\edat\\arreglosg2_t3\\arreglos.logica\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{31412067-C96B-FFDE-E1FF-7E026BCC1B41}|Arreglos.Logica\\Arreglos.Logica.csproj|solutionrelative:arreglos.logica\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\Arreglos.Logica\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Arreglos.Logica\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\Arreglos.Logica\\ClassDiagram1.cd",
+              "RelativeToolTip": "Arreglos.Logica\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-10-06T14:11:39.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\Arreglos.UI.Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Arreglos.UI.Consola\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\Arreglos.UI.Consola\\Program.cs",
+              "RelativeToolTip": "Arreglos.UI.Consola\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:31:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiArreglo.cs",
+              "DocumentMoniker": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\Arreglos.Logica\\MiArreglo.cs",
+              "RelativeDocumentMoniker": "Arreglos.Logica\\MiArreglo.cs",
+              "ToolTip": "C:\\Proyectos\\EDAT\\ArreglosG2_T3\\Arreglos.Logica\\MiArreglo.cs",
+              "RelativeToolTip": "Arreglos.Logica\\MiArreglo.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAQwO4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:27:46.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

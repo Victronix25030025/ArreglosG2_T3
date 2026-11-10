@@ -1,0 +1,5 @@
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.UI.Consola\obj\Debug\net10.0\Arreglos.UI.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.UI.Consola\obj\Debug\net10.0\Arreglos.UI.Consola.AssemblyInfoInputs.cache
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.UI.Consola\obj\Debug\net10.0\Arreglos.UI.Consola.AssemblyInfo.cs
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.UI.Consola\obj\Debug\net10.0\Arreglos.UI.Consola.csproj.CoreCompileInputs.cache
+C:\Proyectos\EDAT\ArreglosG2_T3\Arreglos.UI.Consola\obj\Debug\net10.0\Arreglos.UI.Consola.sourcelink.json
